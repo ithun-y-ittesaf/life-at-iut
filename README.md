@@ -37,4 +37,9 @@ If you're contributing to this repository, please follow these important guideli
      * Place the `.zip` in the same directory.
      * Commit the `.zip` file—**this ensures efficient version control and keeps the repo lightweight**.
 
+  * When adding slides, project outline documents, etc. (basically very small PDFs), use the command:
+      ```bash
+      git add -f path/to/file.pdf
+      ```
+
 
